@@ -1,0 +1,136 @@
+.firstSection {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.firstSection>div {
+    width: 70%;
+    padding-bottom: 0;
+    height: 400px;
+    margin-bottom: 0;
+    padding-top: 0px;
+
+}
+
+.leftSection {
+    margin: 130px 0;
+    width: 100%;
+    font-size: 2.6rem;
+    margin-left: 60px;
+    color: #000;
+    font-family: 'poppins';
+
+}
+
+.leftSection div {
+    width: 100%;
+    font-size: 2.6rem;
+}
+
+.leftSection .btn {
+    padding: 12px;
+    background-color: rgb(196, 181, 205);
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+.rightSection img {
+    width: 75%;
+    margin: 50px 0px;
+
+
+}
+
+.purple {
+    color: #489fb5;
+}
+
+span.text-gray {
+    color: grey;
+    font-size: small;
+}
+
+#element {
+    color: #489fb5;
+}
+
+h1 {
+    font-size: 2.5rem;
+
+}
+
+main hr {
+    border: 0;
+    background: #5bc0be;
+    height: 1px;
+    margin: 20px 84px;
+}
+
+.secondSection {
+    max-width: 95vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    color: #778da9;
+    background-color: #edede9;
+}
+
+.secondSection>div {
+    width: 45%;
+    padding-bottom: 0;
+    height: 400px;
+    margin-bottom: 0;
+
+}
+
+.left2 {
+
+    width: 100%;
+    font-size: 3rem;
+
+}
+
+.left2 div {
+
+    width: 100%;
+    font-size: 2rem;
+
+}
+
+.left2 img {
+    width: 80%;
+    margin: 50px;
+}
+
+.right2 {
+    height: 60%;
+}
+
+#p1 {
+
+    font-size: larger;
+}
+
+.inner {
+    height: 80%;
+    margin-top: 60px;
+}
+
+.btn1{
+    color: white;
+    text-decoration: none;
+    width: 160px;
+    background-color: azure;
+}
+
+
+.thirdSection {
+    max-width: 95vw;
+    margin: auto;
+   width: 800px;
+   height: 400px;
+  
+    background-color: #edede9;
+}

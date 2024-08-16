@@ -1,0 +1,38 @@
+nav {
+    font-family: 'Syncopate','poppins','Ariel','sans-serif';
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 90px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: gray;
+
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    margin: 0 23px;
+  color: grey;
+  margin-left: 90px;
+  font-size: 1.3rem;
+}
+
+nav ul li a:hover{
+
+  color: #dedbd2;
+  font-size: 1.02rem;
+
+}
+.left {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: gray;
+  
+}
